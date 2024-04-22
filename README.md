@@ -6,3 +6,16 @@ Swire is set to introduce a range of innovative products and requests a reliable
 
 Benefiting from a reliable forecast model, Swire aims to make data-driven decisions for the introduction of its new products, optimizing inventory management, and ensuring customer satisfaction. Stakeholders will judge the success of the project based on the accuracy of demand forecasts and the resulting actionable insights. The analytics approach will focus on the utilization of historical and census data to construct a robust forecast model, enabling informed decision-making for product introduction and market positioning. Potentially, additional market factors will be evaluated to achieve a deeper understanding of sales data. The project scope includes the execution of the forecast model with flexibility for potential enhancements based on project milestones and evolving business requirements.
 
+**Group's Solution**  
+We decided to look at the problem
+
+**My Contribution**  
+
+
+**Business Value**  
+
+
+**Difficulties Faced**  
+
+
+**Lessons Learned**  
